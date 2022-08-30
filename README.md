@@ -34,7 +34,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### What I learned
 
-For this project, I decided to use some HTML5 sematic tags thayt i don;t normally use such the "main"  and "article" tag. There were some 
+For this project, I decided to use some HTML5 semantic tags that I don't normally use such the "main"  and "article" tag. There were some rules that I wasn't aware of priot to this challenge.
 
 ```html
 <main>
@@ -44,7 +44,7 @@ For this project, I decided to use some HTML5 sematic tags thayt i don;t normall
 
 ### Useful resources
 
-- [Flexbox: center horizontally and vertically](https://stackoverflow.com/questions/19026884/flexbox-center-horizontally-and-vertically) - THowto center elements using flexbox
+- [Flexbox: center horizontally and vertically](https://stackoverflow.com/questions/19026884/flexbox-center-horizontally-and-vertically) - This is a Stack Overflow solution that shows how to center elements using flexbox.
 - [HTML5 Semantic Tags: What They Are and How to Use Them!](https://www.semrush.com/blog/semantic-html5-guide/) - This is an informative article that gives a good overview of the HTML5 semantic tags.
 
 ## Author
