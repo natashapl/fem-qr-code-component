@@ -10,6 +10,12 @@ html {
 }
 
 /** QR Code Box Styles **/
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: "Outfit", Arial, Helvetica, sans-serif;
   font-size: 15px;
@@ -18,9 +24,9 @@ body {
 
 #root {
   background: hsl(212deg, 45%, 89%);
-  max-width: 1440px;
+  max-width: 100%;
   min-width: 375px;
-  height: 800px;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
